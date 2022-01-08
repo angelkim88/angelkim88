@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+![angelkim88's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelkim88&show_icons=true&theme=radical)
+
 
 <!--
 **angelkim88/angelkim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
